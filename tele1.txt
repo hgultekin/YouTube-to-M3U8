@@ -1,0 +1,6 @@
+~~ DO NOT EDIT THE FIRST 2 LINES	
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
+
+Tele 1 | | | |
+https://www.youtube.com/@Tele1comtr/live
