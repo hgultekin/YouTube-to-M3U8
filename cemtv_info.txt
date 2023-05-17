@@ -2,5 +2,5 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-Bernama TV | | | |
-https://m.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw/live
+Cem TV | | | |
+https://www.youtube.com/live/f0CHxpi_4HU
