@@ -2,5 +2,5 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-Yol TV | | | |
-https://www.youtube.com/@yoltvprogramlar726/live
+360 TV | | | |
+https://www.youtube.com/@tv360/live
