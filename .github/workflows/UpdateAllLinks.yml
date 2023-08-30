@@ -51,6 +51,8 @@ jobs:
           ./sozcutv.sh
           ./tele1.sh
           ./yoltv.sh
+          ./atv.sh
+          ./startv.sh
 
         
       - name: git add
